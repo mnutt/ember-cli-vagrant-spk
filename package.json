@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-vagrant-spk",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Develop Ember-based Sandstorm applications using vagrant-spk",
   "repository": "git://github.com/mnutt/ember-cli-vagrant-spk.git",
   "engines": {
