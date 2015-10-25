@@ -9,8 +9,13 @@
   "author": "Michael Nutt <michael@nuttnet.net>",
   "license": "MIT",
   "keywords": [
-    "ember-addon", "vagrant-spk", "sandstorm"
+    "ember-addon",
+    "vagrant-spk",
+    "sandstorm"
   ],
+  "devDependencies": {
+    "ember-cli": "1.13.1"
+  },
   "dependencies": {
     "ember-cli-babel": "^5.0.0"
   }
