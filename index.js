@@ -1,10 +1,9 @@
-/* jshint node: true */
 'use strict';
 
 var command = require('./lib/command');
 
 module.exports = {
-  name: 'ember-cli-vagrant-spk',
+  name: require('./package').name,
   includedCommands: function() {
     return {'spk': command};
   }

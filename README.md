@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ember-cli-vagrant-spk
 
 Sandstorm.io is an open source platform for building isolated web applications.
@@ -26,3 +27,43 @@ cp vagrant-spk /usr/local/bin/vagrant-spk               # or somewhere in your p
 
 * `ember spk`
 * Visit your app at http://local.sandstorm.io:6080/
+=======
+my-addon
+==============================================================================
+
+[Short description of the addon.]
+
+
+Compatibility
+------------------------------------------------------------------------------
+
+* Ember.js v3.12 or above
+* Ember CLI v2.13 or above
+* Node.js v10 or above
+
+
+Installation
+------------------------------------------------------------------------------
+
+```
+ember install my-addon
+```
+
+
+Usage
+------------------------------------------------------------------------------
+
+[Longer description of how to use the addon in apps.]
+
+
+Contributing
+------------------------------------------------------------------------------
+
+See the [Contributing](CONTRIBUTING.md) guide for details.
+
+
+License
+------------------------------------------------------------------------------
+
+This project is licensed under the [MIT License](LICENSE.md).
+>>>>>>> eec9954... v1.13.1...v3.16.0
